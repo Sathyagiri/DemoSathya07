@@ -1,2 +1,0 @@
-Text 3 file is created\
-Another is modified
